@@ -1,1 +1,3 @@
 Jack and Jill ran up the hill to fetch a pail of water, Jack fell downa and broke his crown and Jill came tumbling after.
+This is another line that I just added to the text to see if the track changes is working with the git index.
+This is yet one more line to see what will happen
