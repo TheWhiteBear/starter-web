@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Brandon Campbell <role> Developer <twitter>
 
 # THANKS
 
